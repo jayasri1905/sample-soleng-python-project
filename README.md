@@ -4,3 +4,4 @@ This repo is configured for demoing:
 2. Github Frogbot OIDC authentication into JFrog Platform
 3. Github workflow with job summaries linking the workflow run into the resulting uploaded packages and build info along with security information  
 This project demonstrates collaborative GitHub workflow using pull requests.
+This line is added to demonstrate Git branch merging and conflict resolution.
